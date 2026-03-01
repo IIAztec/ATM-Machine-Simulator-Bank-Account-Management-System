@@ -49,7 +49,7 @@ All data is stored in **CSV files**:
 
 ## System Requirements
 - C++11 compatible compiler
-- Terminal with **ANSI color support** (for green balance display)
+- Terminal with **ANSI color support** (for green and red text)
 
 ## Compilation and Execution
 
