@@ -79,7 +79,7 @@ g++ -std=c++11 createUserAcc.cpp -o createUserAcc
 createUserAcc.exe
 ```
 ## Project Structure
-
+```bash
 atm.cpp               # Main ATM simulator
 createUserAcc.cpp     # Standalone account registration tool
 accounts.csv          # User database
@@ -90,7 +90,7 @@ atm                   # Compiled executable (Linux/macOS)
 createUserAcc         # Compiled executable (Linux/macOS)
 atm.exe               # Compiled executable (Windows)
 createUserAcc.exe     # Compiled executable (Windows)
-
+```
 ## Author
 
 **Ignat Danilin**
